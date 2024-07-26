@@ -6,7 +6,7 @@ import string
 import time
 import os
 import sys
-os.system("title WARP-PLUS By XDWOLF")
+os.system("title WARP-PLUS By Ahameedx")
 os.system('cls' if os.name == 'nt' else 'clear')
 print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+")
@@ -14,7 +14,7 @@ print ("[-] Version: X.D.0")
 print ("")
 print ("------------------------")
 print ("")
-print ("[+] THIS SCRIPT CODDED BY XDWOLF") 
+print ("[+] THIS SCRIPT CODDED BY Ahameedx") 
 print ("[-] SITE: xd-wolf.com") 
 print ("")
 print ("------------------------")
@@ -69,7 +69,7 @@ while True:
 		g = g + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  WARP-PLUS-CLOUDFLARE (script)" + " By XDWOLF")
+		print("                  WARP-PLUS-CLOUDFLARE (script)" + " Ahameedx")
 		print("")
 		animation = ["[■□□□□□□□□□] 10%","[■■□□□□□□□□] 20%", "[■■■□□□□□□□] 30%", "[■■■■□□□□□□] 40%", "[■■■■■□□□□□] 50%", "[■■■■■■□□□□] 60%", "[■■■■■■■□□□] 70%", "[■■■■■■■■□□] 80%", "[■■■■■■■■■□] 90%", "[■■■■■■■■■■] 100%"] 
 		for i in range(len(animation)):
